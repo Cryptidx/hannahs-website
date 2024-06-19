@@ -1,0 +1,101 @@
+h3{
+    font-family: "Nanum Pen Script", "cursive";
+    padding-left: 30px;
+}
+
+h1{
+    font-family: "Righteous", sans-serif;
+}
+
+.other-pages ul li{
+    font-family: "Nanum Pen Script", "cursive";
+}
+
+.logos a{
+    color: black;
+}
+
+.logos a:visited{
+    color: black;
+}
+
+.other-pages ul li {
+    display: inline;
+    margin-right: 200px;
+}
+
+
+.other-pages a{
+    text-decoration: none;
+    color: black;
+}
+
+.other-pages a:visited{
+    color: black;
+}
+
+body{
+    margin: 70px;
+    /* padding: 20px; */
+}
+
+.welcome{
+    margin-top: 100px;
+    max-width: 90000px;
+}
+
+.welcome h3{
+    padding-left: 150px;
+    font-size: 30px;
+}
+
+.welcome h1{
+    padding-left: 50px;
+    font-size: 110px;
+    margin-top: -60px;
+    letter-spacing: 10px;
+}
+
+.logos{
+    margin-top: -80px;
+    padding-left: 1070px;
+}
+
+.logos i{
+    margin-right: 40px;
+    font-size: 30px;
+}
+
+
+.about{
+    list-style: none;
+    font-family: "Nanum Pen Script", "cursive";
+    margin-top: -15px;
+}
+
+.about li:before{
+    content: '\2605'; /* Unicode character for star */
+    /* margin-right: 10px; Adjust spacing between bullet point and text */
+}
+
+.about a{
+    text-decoration: none;
+    color: green;
+}
+.about a:visited{
+    color: green;
+}
+
+.about .underline{
+    text-decoration: underline red;
+}
+
+figcaption{
+    font-family: "Nanum Pen Script", "cursive";
+    font-size: 14px;
+}
+
+img{
+    width: 97%;
+    height: 550px;
+}
